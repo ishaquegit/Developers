@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Developer 1 fiel now
+=======
+Developer2 added something
+>>>>>>> 24066ca21a6cabdc5ca437b11e5db6d4641d3232
